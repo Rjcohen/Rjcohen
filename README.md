@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Reece Cohen
 
-<!--
-**Rjcohen/Rjcohen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a freshman at USF studying Business Finance.  
+I am interested in aviation and technology.
 
-Here are some ideas to get you started:
+## Career Goals
+I am working toward a career in the aviation industry.  
+My goal is to become a commercial pilot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Tools
+- Programming Languages: Python, Java
+- Tools/Software: VS Code, Thonny, Excel
+- Other Skills: Problem solving, teamwork
+
+## Currently Learning
+- Python
+- Microsoft Excel
+
+## Projects
+- Loan Evaluation System – Python program that evaluates loan applications based on business data.
+- Python Practice Programs – Beginner projects using loops, conditionals, and basic concepts.
+
+## Contact
+- Email: reecejax@gmail.com
